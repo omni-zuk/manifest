@@ -23,6 +23,10 @@
 
   <remote  name="github"
            fetch="https://github.com"/>
+  
+  <remote  name="hals"
+           fetch="https://github.com/omni-zuk"
+           revision="oreo-mr1"/>
 
   <remote  name="github-ssh"
            fetch="ssh://git@github.com"/>
